@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "serveur node",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicesare/OCRFullstackNodeExpressMongo.git"
+  },
+  "keywords": [
+    "Sifredi@1977"
+  ],
+  "author": "Antony Coco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dicesare/OCRFullstackNodeExpressMongo/issues"
+  },
+  "homepage": "https://github.com/dicesare/OCRFullstackNodeExpressMongo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
